@@ -7,3 +7,5 @@ segunda alteração criada
 terceira inteiração com o git hub 
 
 teste git status 
+
+2 teste de git status 
